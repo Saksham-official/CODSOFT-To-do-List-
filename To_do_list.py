@@ -12,7 +12,7 @@ def add_task():    #add button
     else:
         messagebox.showwarning("Input error", "Pleae enter a task")
 
-def delete_button():    #delete button
+def delete_task():    #delete button
     selected = listbox.curselection()
     if selected:
         index = selected[0]
@@ -23,13 +23,13 @@ def delete_button():    #delete button
 
 root = tk.Tk()
 root.title("To-do list app using Python")
-root.geometry("500*500")
+root.geometry("500x500")
 
 entry = tk.Entry(root, width = 30, font=("Arial", 12))
 entry.pack(pady = 10)
 
 #task button
-add_btn = tk.Button(root, text="Add task", command = add_task, width = 20, bg = "cran", fg = "white")
+add_btn = tk.Button(root, text="Add task", command = add_task, width = 20, bg = "cyan", fg = "white")
 add_btn.pack()
 
 #it show task
