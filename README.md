@@ -37,9 +37,9 @@ It’s a lightweight desktop app, built with just Python and the Tkinter library
 ---
 
 ## 🎮 How It Looks
-
-*(Screenshots coming soon — because a little visual always helps!)*
-
+(Screenshot 2025-07-21 201010.png)
+(Screenshot 2025-07-21 201035.png)
+(Screenshot 2025-07-21 201150.png)
 ---
 
 ## 🏁 How to Run This
