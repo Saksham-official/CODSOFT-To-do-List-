@@ -37,11 +37,12 @@ It’s a lightweight desktop app, built with just Python and the Tkinter library
 ---
 
 ## 🎮 How It Looks
-(Screenshot 2025-07-21 201010.png)
-(Screenshot 2025-07-21 201035.png)
-(Screenshot 2025-07-21 201150.png)
----
 
+<img width="620" height="658" alt="Screenshot 2025-07-21 201010" src="https://github.com/user-attachments/assets/b0552b90-78a1-4e28-808c-05af96cc62c2" />
+<img width="622" height="659" alt="Screenshot 2025-07-21 201035" src="https://github.com/user-attachments/assets/848f4b52-f54b-4269-a3a4-0b69c30b2047" />
+<img width="617" height="658" alt="Screenshot 2025-07-21 201150" src="https://github.com/user-attachments/assets/1cdfe60b-421b-4bcd-966d-23de35023250" />
+
+---
 ## 🏁 How to Run This
 
 1. Make sure you have **Python 3.x** installed
